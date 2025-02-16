@@ -1,4 +1,4 @@
-
+<script type='text/javascript' src='//embitterlorrycar.com/07/d5/ac/07d5acabcbfb0e843f499e904565f063.js'></script>
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
@@ -119,7 +119,16 @@
             <img src="https://www2.0zz0.com/2025/02/16/21/305338641.jpg" alt="لقطة شاشة توضح النقر على العقود">
         </div>
     </div>
-
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'c7d795db55e3077ea5c3b528f903a387',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//embitterlorrycar.com/c7d795db55e3077ea5c3b528f903a387/invoke.js"></script>
     <div class="step">
         <p>2️⃣ بعد النقر على العقود، اختر <strong>عقودك الحالية</strong> من القائمة.</p>
         <div class="image-container">
@@ -135,7 +144,7 @@
     </div>
 
     <!-- زر الانتقال إلى منصة قوى -->
-    <a href="https://qwa.qiwa.sa/" class="qwa-button" target="_blank">
+    <a href="https://sso.qiwa.sa/sign-in?client_id=qiwa&redirect_uri=https%3A%2F%2Fauth.qiwa.sa%2Foauth%2Fcallback&response_type=code&scope=openid%20email%20phone%20profile&state=jokMcGxFHTq8L5GrkI-41JXAcgRgyNA5-HUFlNCxph4&code_challenge=qaNLQMq2obybHV_YmTWl08bYzRDihAv4CXJhdKR5GzY&code_challenge_method=S256" class="qwa-button" target="_blank">
         <i class="fas fa-external-link-alt"></i>
         الانتقال إلى منصة قوى
     </a>
